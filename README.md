@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=TzuyuDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m Nikki
 - 👀 I’m interested in Lua, Photoshop, PHP, HTML5, MySQL and Frameworks
 - 🌱 I’m currently learning Lua and Frameworks (Zend, Laravel)
